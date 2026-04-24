@@ -1,0 +1,13 @@
+Step 2: Create a New Flutter Project
+
+Open terminal / command prompt and run:
+
+flutter create layout_app
+cd layout_app
+
+👉 This creates a new Flutter project named layout_app
+
+Step 3: Open the Project in IDE
+lib/main.dart
+replace main.dart code with the code in file "main.dart".
+
